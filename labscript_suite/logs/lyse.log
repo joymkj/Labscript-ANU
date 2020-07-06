@@ -1,0 +1,480 @@
+2020-02-14 17:58:48,419 INFO lyse: 
+
+===============starting===============
+
+2020-02-14 17:58:48,588 INFO lyse.FileBox: starting
+2020-02-17 10:26:31,042 INFO lyse: 
+
+===============starting===============
+
+2020-02-17 10:26:31,292 INFO lyse.FileBox: starting
+2020-02-17 17:25:00,455 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-02-17 17:25:00,473 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-02-17 17:25:00,488 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-02-17 17:25:07,669 INFO lyse.FileBox.analysis_loop: analysis is paused
+2020-02-17 17:25:12,766 INFO lyse.FileBox.analysis_loop: analysis is paused
+2020-02-18 11:04:31,266 INFO lyse: 
+
+===============starting===============
+
+2020-02-18 11:04:31,532 INFO lyse.FileBox: starting
+2020-03-05 17:17:38,009 INFO lyse: 
+
+===============starting===============
+
+2020-03-05 17:17:38,150 INFO lyse.FileBox: starting
+2020-03-12 15:43:40,123 INFO lyse: 
+
+===============starting===============
+
+2020-03-12 15:43:40,252 INFO lyse.FileBox: starting
+2020-03-12 16:31:32,117 INFO lyse: 
+
+===============starting===============
+
+2020-03-12 16:31:32,266 INFO lyse.FileBox: starting
+2020-03-24 14:52:01,022 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 14:52:01,162 INFO lyse.FileBox: starting
+2020-03-24 15:02:27,816 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:02:27,946 INFO lyse.FileBox: starting
+2020-03-24 15:02:34,817 INFO lyse: WebServer request: hello
+2020-03-24 15:02:39,686 INFO lyse: WebServer request: hello
+2020-03-24 15:02:49,686 INFO lyse: WebServer request: hello
+2020-03-24 15:02:59,702 INFO lyse: WebServer request: hello
+2020-03-24 15:03:09,712 INFO lyse: WebServer request: hello
+2020-03-24 15:03:19,719 INFO lyse: WebServer request: hello
+2020-03-24 15:03:29,734 INFO lyse: WebServer request: hello
+2020-03-24 15:03:39,751 INFO lyse: WebServer request: hello
+2020-03-24 15:03:49,764 INFO lyse: WebServer request: hello
+2020-03-24 15:03:57,801 INFO lyse: WebServer request: hello
+2020-03-24 15:04:04,498 INFO lyse: WebServer request: hello
+2020-03-24 15:04:14,501 INFO lyse: WebServer request: hello
+2020-03-24 15:04:24,520 INFO lyse: WebServer request: hello
+2020-03-24 15:04:33,691 INFO lyse: WebServer request: hello
+2020-03-24 15:04:43,694 INFO lyse: WebServer request: hello
+2020-03-24 15:04:53,698 INFO lyse: WebServer request: hello
+2020-03-24 15:05:03,704 INFO lyse: WebServer request: hello
+2020-03-24 15:05:13,723 INFO lyse: WebServer request: hello
+2020-03-24 15:05:19,909 INFO lyse: WebServer request: hello
+2020-03-24 15:05:29,917 INFO lyse: WebServer request: hello
+2020-03-24 15:05:35,724 INFO lyse: WebServer request: hello
+2020-03-24 15:05:41,277 INFO lyse: WebServer request: hello
+2020-03-24 15:05:45,664 INFO lyse: WebServer request: hello
+2020-03-24 15:05:50,540 INFO lyse: WebServer request: hello
+2020-03-24 15:05:54,095 INFO lyse: WebServer request: hello
+2020-03-24 15:06:04,102 INFO lyse: WebServer request: hello
+2020-03-24 15:06:07,051 INFO lyse: WebServer request: hello
+2020-03-24 15:06:13,032 INFO lyse: WebServer request: hello
+2020-03-24 15:06:22,447 INFO lyse: WebServer request: hello
+2020-03-24 15:06:32,452 INFO lyse: WebServer request: hello
+2020-03-24 15:06:42,455 INFO lyse: WebServer request: hello
+2020-03-24 15:06:44,278 INFO lyse: WebServer request: hello
+2020-03-24 15:06:54,279 INFO lyse: WebServer request: hello
+2020-03-24 15:07:04,283 INFO lyse: WebServer request: hello
+2020-03-24 15:07:14,299 INFO lyse: WebServer request: hello
+2020-03-24 15:07:24,312 INFO lyse: WebServer request: hello
+2020-03-24 15:07:34,330 INFO lyse: WebServer request: hello
+2020-03-24 15:07:44,349 INFO lyse: WebServer request: hello
+2020-03-24 15:07:54,361 INFO lyse: WebServer request: hello
+2020-03-24 15:08:04,375 INFO lyse: WebServer request: hello
+2020-03-24 15:08:14,393 INFO lyse: WebServer request: hello
+2020-03-24 15:08:24,403 INFO lyse: WebServer request: hello
+2020-03-24 15:08:34,419 INFO lyse: WebServer request: hello
+2020-03-24 15:08:44,436 INFO lyse: WebServer request: hello
+2020-03-24 15:08:54,440 INFO lyse: WebServer request: hello
+2020-03-24 15:13:20,770 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:13:20,900 INFO lyse.FileBox: starting
+2020-03-24 15:15:05,045 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:15:05,175 INFO lyse.FileBox: starting
+2020-03-24 15:16:36,500 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:16:36,630 INFO lyse.FileBox: starting
+2020-03-24 15:17:09,260 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:17:09,380 INFO lyse.FileBox: starting
+2020-03-24 15:18:00,091 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:18:00,211 INFO lyse.FileBox: starting
+2020-03-24 15:19:37,578 INFO lyse: 
+
+===============starting===============
+
+2020-03-24 15:19:37,699 INFO lyse.FileBox: starting
+2020-04-08 15:45:32,436 INFO lyse: 
+
+===============starting===============
+
+2020-04-08 15:45:32,566 INFO lyse.FileBox: starting
+2020-04-08 15:45:32,933 INFO lyse: WebServer request: hello
+2020-04-08 15:46:18,767 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-07_0031_connectiontable_0.h5
+2020-04-08 15:46:18,867 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-07_0031_connectiontable_0.h5
+2020-04-08 15:46:18,877 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-07_0031_connectiontable_0.h5
+2020-04-08 15:46:18,897 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-07_0031_connectiontable_0.h5
+2020-04-08 15:46:18,897 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-04-08 15:46:18,897 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-04-08 15:46:18,917 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-04-08 15:52:19,011 INFO lyse: 
+
+===============starting===============
+
+2020-04-08 15:52:19,130 INFO lyse.FileBox: starting
+2020-04-08 15:52:36,092 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-03-20_0029_connectiontable_0.h5
+2020-04-08 15:52:36,181 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-03-20_0029_connectiontable_0.h5
+2020-04-08 15:52:36,191 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-03-20_0029_connectiontable_0.h5
+2020-04-08 15:52:36,202 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-03-20_0029_connectiontable_0.h5
+2020-04-08 15:52:36,202 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-04-08 15:52:36,202 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-04-08 15:52:36,212 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-04-21 14:16:59,319 INFO lyse: 
+
+===============starting===============
+
+2020-04-21 14:16:59,449 INFO lyse.FileBox: starting
+2020-04-21 14:17:03,772 INFO lyse: WebServer request: hello
+2020-04-21 14:17:07,303 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\example_experiment\\connectiontable\\2020\\03\\20\\0025\\2020-04-21_0142_connectiontable_0.h5'}
+2020-04-21 14:17:07,415 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-21_0142_connectiontable_0.h5
+2020-04-21 14:17:07,496 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-21_0142_connectiontable_0.h5
+2020-04-21 14:17:07,506 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-21_0142_connectiontable_0.h5
+2020-04-21 14:17:07,516 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\example_experiment\connectiontable\2020\03\20\0025\2020-04-21_0142_connectiontable_0.h5
+2020-04-21 14:17:07,516 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-04-21 14:17:07,516 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-04-21 14:17:07,526 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-04-21 14:17:17,312 INFO lyse: WebServer request: hello
+2020-04-21 14:17:27,323 INFO lyse: WebServer request: hello
+2020-04-21 14:17:37,333 INFO lyse: WebServer request: hello
+2020-04-21 14:17:47,356 INFO lyse: WebServer request: hello
+2020-04-21 14:17:57,372 INFO lyse: WebServer request: hello
+2020-05-17 21:11:01,496 INFO lyse: 
+
+===============starting===============
+
+2020-05-17 21:11:01,636 INFO lyse.FileBox: starting
+2020-05-19 17:09:48,018 INFO lyse: 
+
+===============starting===============
+
+2020-05-19 17:09:48,157 INFO lyse.FileBox: starting
+2020-06-10 12:08:15,306 INFO lyse: 
+
+===============starting===============
+
+2020-06-10 12:08:15,506 INFO lyse.FileBox: starting
+2020-06-15 10:44:12,912 INFO lyse: 
+
+===============starting===============
+
+2020-06-15 10:44:13,112 INFO lyse.FileBox: starting
+2020-06-25 10:06:01,039 INFO lyse: 
+
+===============starting===============
+
+2020-06-25 10:06:01,189 INFO lyse.FileBox: starting
+2020-06-25 10:06:04,471 INFO lyse: WebServer request: hello
+2020-06-25 10:06:14,489 INFO lyse: WebServer request: hello
+2020-06-25 10:06:15,348 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\25\\0004\\2020-06-25_0008_connectiontable_0.h5'}
+2020-06-25 10:06:15,455 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0008_connectiontable_0.h5
+2020-06-25 10:06:15,557 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0008_connectiontable_0.h5
+2020-06-25 10:06:15,557 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0008_connectiontable_0.h5
+2020-06-25 10:06:15,577 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0008_connectiontable_0.h5
+2020-06-25 10:06:15,577 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:15,577 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:15,587 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:06:25,349 INFO lyse: WebServer request: hello
+2020-06-25 10:06:35,351 INFO lyse: WebServer request: hello
+2020-06-25 10:06:42,231 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\25\\0004\\2020-06-25_0009_connectiontable_0.h5'}
+2020-06-25 10:06:42,340 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0.h5
+2020-06-25 10:06:42,365 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0.h5
+2020-06-25 10:06:42,369 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0.h5
+2020-06-25 10:06:42,369 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0.h5
+2020-06-25 10:06:42,373 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:42,373 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:42,374 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:06:44,966 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\25\\0004\\2020-06-25_0009_connectiontable_0_rep00001.h5'}
+2020-06-25 10:06:45,076 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:06:45,101 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:06:45,104 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:06:45,105 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:06:45,109 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:45,109 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:45,110 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:06:47,616 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\25\\0004\\2020-06-25_0009_connectiontable_0_rep00002.h5'}
+2020-06-25 10:06:47,724 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:06:47,750 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:06:47,754 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:06:47,755 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:06:47,759 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:47,760 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:47,760 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:06:50,243 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\25\\0004\\2020-06-25_0009_connectiontable_0_rep00003.h5'}
+2020-06-25 10:06:50,353 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:06:50,378 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:06:50,383 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:06:50,384 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:06:50,389 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:50,390 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:50,390 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:06:52,968 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\25\\0004\\2020-06-25_0009_connectiontable_0_rep00004.h5'}
+2020-06-25 10:06:53,076 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:06:53,116 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:06:53,126 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:06:53,126 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:06:53,126 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:53,126 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:53,126 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:06:56,903 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:06:56,903 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:06:56,903 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:07:01,394 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:07:01,394 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:07:01,394 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:07:02,978 INFO lyse: WebServer request: hello
+2020-06-25 10:07:04,770 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:07:04,770 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:07:04,770 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:07:04,780 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:07:04,780 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:07:04,780 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:07:04,780 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:07:04,780 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:07:04,780 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:07:04,790 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:07:04,790 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:07:04,790 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:07:04,790 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:07:04,790 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:07:04,790 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:07:05,682 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:07:05,682 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:07:05,682 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00001.h5
+2020-06-25 10:07:05,691 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:07:05,691 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:07:05,691 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00002.h5
+2020-06-25 10:07:05,701 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:07:05,701 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:07:05,701 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00003.h5
+2020-06-25 10:07:05,701 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:07:05,701 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:07:05,701 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\25\0004\2020-06-25_0009_connectiontable_0_rep00004.h5
+2020-06-25 10:07:05,711 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:07:05,711 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:07:05,711 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:07:12,988 INFO lyse: WebServer request: hello
+2020-06-25 10:07:23,002 INFO lyse: WebServer request: hello
+2020-06-25 10:07:33,015 INFO lyse: WebServer request: hello
+2020-06-25 10:07:43,030 INFO lyse: WebServer request: hello
+2020-06-25 10:07:53,041 INFO lyse: WebServer request: hello
+2020-06-25 10:08:03,043 INFO lyse: WebServer request: hello
+2020-06-25 10:43:37,495 INFO lyse: 
+
+===============starting===============
+
+2020-06-25 10:43:37,625 INFO lyse.FileBox: starting
+2020-06-25 10:43:42,200 INFO lyse: WebServer request: hello
+2020-06-25 10:43:52,212 INFO lyse: WebServer request: hello
+2020-06-25 10:43:54,395 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0011_connectiontable_0.h5'}
+2020-06-25 10:43:54,505 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 10:43:54,605 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 10:43:54,615 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 10:43:54,615 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 10:43:54,625 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:43:54,625 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:43:54,655 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:04,397 INFO lyse: WebServer request: hello
+2020-06-25 10:44:05,006 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0.h5'}
+2020-06-25 10:44:05,116 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 10:44:05,139 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 10:44:05,142 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 10:44:05,142 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 10:44:05,145 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:05,146 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:05,146 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:11,625 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00001.h5'}
+2020-06-25 10:44:11,732 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00001.h5
+2020-06-25 10:44:11,758 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00001.h5
+2020-06-25 10:44:11,758 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00001.h5
+2020-06-25 10:44:11,760 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00001.h5
+2020-06-25 10:44:11,763 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:11,765 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:11,766 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:18,293 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00002.h5'}
+2020-06-25 10:44:18,399 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00002.h5
+2020-06-25 10:44:18,424 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00002.h5
+2020-06-25 10:44:18,428 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00002.h5
+2020-06-25 10:44:18,428 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00002.h5
+2020-06-25 10:44:18,432 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:18,432 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:18,433 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:24,894 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00003.h5'}
+2020-06-25 10:44:24,997 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00003.h5
+2020-06-25 10:44:25,023 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00003.h5
+2020-06-25 10:44:25,028 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00003.h5
+2020-06-25 10:44:25,028 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00003.h5
+2020-06-25 10:44:25,032 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:25,033 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:25,033 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:31,540 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00004.h5'}
+2020-06-25 10:44:31,646 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00004.h5
+2020-06-25 10:44:31,672 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00004.h5
+2020-06-25 10:44:31,676 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00004.h5
+2020-06-25 10:44:31,678 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00004.h5
+2020-06-25 10:44:31,682 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:31,683 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:31,683 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:38,235 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00005.h5'}
+2020-06-25 10:44:38,342 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00005.h5
+2020-06-25 10:44:38,369 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00005.h5
+2020-06-25 10:44:38,374 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00005.h5
+2020-06-25 10:44:38,374 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00005.h5
+2020-06-25 10:44:38,380 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:38,380 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:38,380 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:44,837 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00006.h5'}
+2020-06-25 10:44:44,940 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00006.h5
+2020-06-25 10:44:44,971 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00006.h5
+2020-06-25 10:44:44,978 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00006.h5
+2020-06-25 10:44:44,979 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00006.h5
+2020-06-25 10:44:44,985 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:44,985 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:44,986 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:51,531 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00007.h5'}
+2020-06-25 10:44:51,638 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00007.h5
+2020-06-25 10:44:51,670 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00007.h5
+2020-06-25 10:44:51,677 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00007.h5
+2020-06-25 10:44:51,677 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00007.h5
+2020-06-25 10:44:51,683 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:51,684 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:51,684 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:44:58,204 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00008.h5'}
+2020-06-25 10:44:58,312 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00008.h5
+2020-06-25 10:44:58,344 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00008.h5
+2020-06-25 10:44:58,352 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00008.h5
+2020-06-25 10:44:58,352 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00008.h5
+2020-06-25 10:44:58,364 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:44:58,364 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:44:58,364 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:45:04,904 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00009.h5'}
+2020-06-25 10:45:05,009 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00009.h5
+2020-06-25 10:45:05,058 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00009.h5
+2020-06-25 10:45:05,066 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00009.h5
+2020-06-25 10:45:05,066 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00009.h5
+2020-06-25 10:45:05,074 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:45:05,075 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:45:05,075 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:45:11,564 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00010.h5'}
+2020-06-25 10:45:11,673 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00010.h5
+2020-06-25 10:45:11,704 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00010.h5
+2020-06-25 10:45:11,712 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00010.h5
+2020-06-25 10:45:11,713 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00010.h5
+2020-06-25 10:45:11,720 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:45:11,721 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:45:11,721 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:45:18,238 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00011.h5'}
+2020-06-25 10:45:18,340 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00011.h5
+2020-06-25 10:45:18,377 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00011.h5
+2020-06-25 10:45:18,385 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00011.h5
+2020-06-25 10:45:18,385 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00011.h5
+2020-06-25 10:45:18,393 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:45:18,393 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:45:18,393 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 10:45:24,910 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\25\\0006\\2020-06-25_0012_connectiontable_0_rep00012.h5'}
+2020-06-25 10:45:25,015 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00012.h5
+2020-06-25 10:45:25,045 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00012.h5
+2020-06-25 10:45:25,055 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00012.h5
+2020-06-25 10:45:25,055 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\25\0006\2020-06-25_0012_connectiontable_0_rep00012.h5
+2020-06-25 10:45:25,065 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 10:45:25,065 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 10:45:25,065 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-25 11:07:07,658 INFO lyse: 
+
+===============starting===============
+
+2020-06-25 11:07:07,781 INFO lyse.FileBox: starting
+2020-06-25 11:07:16,407 INFO lyse: WebServer request: hello
+2020-06-25 11:07:16,427 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\new\\connectiontable\\2020\\06\\25\\0011\\2020-06-25_0011_connectiontable_0.h5'}
+2020-06-25 11:07:16,427 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\new\\connectiontable\\2020\\06\\25\\0012\\2020-06-25_0012_connectiontable_0.h5'}
+2020-06-25 11:07:16,538 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\new\connectiontable\2020\06\25\0011\2020-06-25_0011_connectiontable_0.h5
+D:\Experiments\new\connectiontable\2020\06\25\0012\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 11:07:16,636 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\new\connectiontable\2020\06\25\0011\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 11:07:16,646 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\new\connectiontable\2020\06\25\0011\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 11:07:16,656 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\new\connectiontable\2020\06\25\0011\2020-06-25_0011_connectiontable_0.h5
+2020-06-25 11:07:16,656 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\new\connectiontable\2020\06\25\0012\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 11:07:16,656 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\new\connectiontable\2020\06\25\0012\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 11:07:16,656 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\new\connectiontable\2020\06\25\0012\2020-06-25_0012_connectiontable_0.h5
+2020-06-25 11:07:16,656 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-25 11:07:16,656 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-25 11:07:16,676 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-29 14:44:15,854 INFO lyse: 
+
+===============starting===============
+
+2020-06-29 14:44:16,000 INFO lyse.FileBox: starting
+2020-06-29 15:04:53,835 INFO lyse: WebServer request: hello
+2020-06-29 15:04:59,155 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\1_sec_mot_hold\\connectiontable\\2020\\06\\29\\0002\\2020-06-29_0002_connectiontable_0.h5'}
+2020-06-29 15:04:59,262 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\29\0002\2020-06-29_0002_connectiontable_0.h5
+2020-06-29 15:04:59,342 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\29\0002\2020-06-29_0002_connectiontable_0.h5
+2020-06-29 15:04:59,352 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\29\0002\2020-06-29_0002_connectiontable_0.h5
+2020-06-29 15:04:59,362 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\1_sec_mot_hold\connectiontable\2020\06\29\0002\2020-06-29_0002_connectiontable_0.h5
+2020-06-29 15:04:59,362 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-29 15:04:59,362 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-29 15:04:59,372 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2020-06-29 15:05:09,166 INFO lyse: WebServer request: hello
+2020-06-29 15:05:19,175 INFO lyse: WebServer request: hello
+2020-06-29 15:05:29,180 INFO lyse: WebServer request: hello
+2020-06-30 11:58:14,020 INFO lyse: 
+
+===============starting===============
+
+2020-06-30 11:58:14,150 INFO lyse.FileBox: starting
+2020-06-30 11:58:16,939 INFO lyse: WebServer request: hello
+2020-06-30 11:58:25,770 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\full_sequence\\connectiontable\\2020\\06\\30\\0004\\2020-06-30_0004_connectiontable_0.h5'}
+2020-06-30 11:58:25,872 INFO lyse.FileBox.incoming: adding:
+D:\Experiments\full_sequence\connectiontable\2020\06\30\0004\2020-06-30_0004_connectiontable_0.h5
+2020-06-30 11:58:25,972 INFO lyse.FileBox.analysis_loop: analysing: D:\Experiments\full_sequence\connectiontable\2020\06\30\0004\2020-06-30_0004_connectiontable_0.h5
+2020-06-30 11:58:25,992 INFO lyse.RoutineBox.singleshot: got a file to process: D:\Experiments\full_sequence\connectiontable\2020\06\30\0004\2020-06-30_0004_connectiontable_0.h5
+2020-06-30 11:58:26,012 DEBUG lyse.RoutineBox.singleshot: completed analysis of D:\Experiments\full_sequence\connectiontable\2020\06\30\0004\2020-06-30_0004_connectiontable_0.h5
+2020-06-30 11:58:26,012 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2020-06-30 11:58:26,012 INFO lyse.RoutineBox.multishot: got a file to process: None
+2020-06-30 11:58:26,032 DEBUG lyse.RoutineBox.multishot: completed analysis of None
